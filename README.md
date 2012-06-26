@@ -1,6 +1,1 @@
-TestRepo1
-=========
-
-TestRepo1
-
-Updating Test Repo1
+1.0.0
